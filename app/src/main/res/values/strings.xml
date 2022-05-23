@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Lab #1</string>
+    <string name="textViewTitle">Lab #1</string>
+    <string name="button">Press here</string>
+    <string name="checkboxText">Highlight table header</string>
+    <string name="toggleButtonText">Toggle title</string>
+    <string name="cityHeader">City</string>
+    <string name="countryHeader">Country</string>
+    <string name="universityHeader">University</string>
+    <string name="countryUa">Ukraine</string>
+    <string name="cityKharkiv">Kharkiv</string>
+    <string name="universityNure">NURE</string>
+    <string name="universityKhpi">KhPI</string>
+    <string name="universityKhai">KhAI</string>
+    <string name="greeting">Hello!</string>
+</resources>
